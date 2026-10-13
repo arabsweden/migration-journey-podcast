@@ -1,0 +1,8 @@
+{
+  "name": "حلل رحلة الهجرة - بودكاست الذكاء الاصطناعي",
+  "description": "تطبيق لتحليل قصص الهجرة، استخلاص الدروس، وتوليد بودكاست صوتي تفاعلي بمكبرات صوت متعددة.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
